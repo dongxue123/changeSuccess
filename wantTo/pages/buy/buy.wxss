@@ -1,0 +1,68 @@
+
+.list{
+    width:100%;
+   display:flex;
+   flex-direction: row;
+
+}
+.dl  image{
+    width:50rpx;
+    height:50rpx;
+    display:block;
+    text-align:center;
+    margin:0 auto;
+}
+.dl{
+    flex:1;
+    justify-content:space-around;
+    align-items:center;
+    margin:20rpx 0px;
+    text-align:center;
+}
+.dl text{
+    font-size:24rpx;
+}
+.box{
+    width:100%;
+    height:500rpx;
+    background:#ccc;
+     padding-top:20rpx;
+}
+.box1{
+    width:100%;
+    height:480rpx;  
+    background:#000;
+}
+.box1 text{
+    display:block;
+    text-align: center;
+    line-height:140rpx;
+    color:#eee;
+}
+.box1 span{
+    margin:0 auto;
+    text-align: center;
+    display:block;
+    width:200rpx;
+    border:2rpx solid #eee; 
+    color:#eee;
+}
+.pro{
+    width:100%;
+    display:flex;
+
+}
+.proList{
+   flex:1;
+   margin-top:40rpx;
+}
+.proList image{
+   width:232rpx;
+   height:232rpx;
+   display:block;
+}
+.proList text{
+    width:200rpx;
+    text-align:center;
+    font-size:28rpx;
+}

@@ -1,0 +1,33 @@
+<!--index.wxml-->
+<view class="container">
+<view class="tit">
+<image src="http://xquser.xiangqu.com/FvuWGwBWSREdKWHlD03hGhtklTZc?imageView2/2/w/140/q/90/format/jpg/960x960/"></image>
+<span>品牌支持人</span>
+<b bindTap="click" >关注+</b>
+</view>
+ <view class="content">
+  <text class="h">冬季这双鞋你值得拥有……</text>   
+ <image src="http://xqother.xiangqu.com/FvZ35K4GNXKCExKrGjE-0sZSNqBa?imageView2/2/w/370/q/90/format/jpg/370x220/" bindtap="toast"  id="http://xqother.xiangqu.com/FvZ35K4GNXKCExKrGjE-0sZSNqBa?imageView2/2/w/370/q/90/format/jpg/370x220/"></image>
+ <view class="tit1">
+<image src="http://xquser.xiangqu.com/FvuWGwBWSREdKWHlD03hGhtklTZc?imageView2/2/w/140/q/90/format/jpg/960x960/"></image>
+<span>HZ:</span>
+<text class="href">连接:http://www.xiangqu.m/product/detail/247…
+</text>
+</view>
+ </view>
+ <view class="tit">
+<image src="http://xquser.xiangqu.com/FlnW2YaBGX5CwWJpw8rmCPirdhmZ?imageView2/2/w/40/q/90/format/jpg/40x40/"></image>
+<span>品牌支持人</span>
+<b>关注+</b>
+</view>
+ <view class="content">
+  <text class="h">今日设计师推荐</text>   
+ <image src="http://xqproduct.xiangqu.com/Fjros0-SCZGdNxKWogBqg0zKZtf6?imageView2/2/w/214/q/90/format/jpg/800x600/" bindtap="toast" id="http://xqproduct.xiangqu.com/Fjros0-SCZGdNxKWogBqg0zKZtf6?imageView2/2/w/214/q/90/format/jpg/800x600/"></image>
+ <view class="tit1">
+<image src="http://xquser.xiangqu.com/FlnW2YaBGX5CwWJpw8rmCPirdhmZ?imageView2/2/w/40/q/90/format/jpg/40x40/"></image>
+<span>HZ:</span>
+<text class="href">连接:http://www.xiangqu.m/product/detail/247…
+</text>
+</view>
+ </view>
+</view>

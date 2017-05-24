@@ -1,0 +1,50 @@
+<!--index.wxml-->
+<view class="container">
+
+
+<view class="pro">
+
+<view class="proList">
+  <image src="http://xqproduct.xiangqu.com/FuRQfEKWC1Qbv3Si4Z7ThIxvBs2h?imageView2/2/w/164/q/90/format/jpg/800x800/"></image>
+  <text>韩版修身淑女大衣</text>
+  </view>
+  <view class="proList">
+  <image src="http://xqproduct.xiangqu.com/FgyCpcMBl2X-aXz1ZUrQfnJodXFO?imageView2/2/w/214/q/90/format/jpg/800x800/"></image>
+  <text>毛呢大衣最新款</text>
+  </view>
+</view>
+
+<view class="pro">
+
+<view class="proList">
+  <image src="http://xqproduct.xiangqu.com/FudujmBJf9KwhfNlFtDhFsoBCtxv?imageView2/2/w/300/q/90/format/jpg/700x700/"></image>
+  <text>韩版修身淑女大衣</text>
+  </view>
+  <view class="proList">
+  <image src="http://xqproduct.xiangqu.com/Fo0Wl86w7YG3gK6P8GqOn-dusz8P?imageView2/2/w/300/q/90/format/jpg/700x700/"></image>
+  <text>毛呢大衣最新款</text>
+  </view>
+</view>
+<view class="pro">
+
+<view class="proList">
+  <image src="http://xqproduct.xiangqu.com/FnUe0B1x7p7qJOTCdjfmGveyCEWi?imageView2/2/w/300/q/90/format/jpg/800x800/"></image>
+  <text>韩版修身淑女大衣</text>
+  </view>
+  <view class="proList">
+  <image src="http://xqproduct.xiangqu.com/Fh_dxnX9JfNA1yScHRPtFPxwVyEO?imageView2/2/w/236/q/90/format/jpg/1200x1200/"></image>
+  <text>毛呢大衣最新款</text>
+  </view>
+</view>
+<view class="pro">
+
+<view class="proList">
+  <image src="http://xqproduct.xiangqu.com/FjYIv9Forl4Q7mEqexpBMaJ3R-47?imageView2/2/w/236/q/90/format/jpg/1000x1000/"></image>
+  <text>韩版修身淑女大衣</text>
+  </view>
+  <view class="proList">
+  <image src="http://xqproduct.xiangqu.com/FvX6sLhjmIeIb7i2q7b7i5SSJd6a?imageView2/2/w/240/q/90/format/jpg/800x800/"></image>
+  <text>毛呢大衣最新款</text>
+  </view>
+</view>
+</view>

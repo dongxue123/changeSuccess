@@ -1,0 +1,29 @@
+<view class="container">  
+    <scroll-view scroll-top="{{scrollTop}}" scroll-y="true" style="height:{{scrollHeight}}px;"   
+        class="list" bindscrolltolower="bindDownLoad" bindscroll="scroll" bindscrolltoupper="refresh"> 
+<view class="designer" wx:for="{{list}}">
+<image src="{{item.src}}"></image>
+<view class="T">
+   <text>{{item.carrierName}}</text>
+<text>{{item.carrierTelphone}}</text>
+<text>{{item.style}}</text>
+</view>
+<span>{{item.carrierId}} 作品</span>
+</view>
+        <!--<view class="item" wx:for="{{list}}">  
+            <image class="img" src="{{item.src}}"></image>  
+            <view class="text">  
+                <text class="title">{{item.carrierName}}</text>  
+                <text class="description">{{item.carrierTelphone}}</text>  
+                <text class="description">{{item.carrierId}}</text>  
+            </view>  
+        </view>  -->
+
+    </scroll-view> 
+
+    <view class="body-view">  
+        <loading hidden="{{hidden}}" >  
+            加载中...  
+        </loading>  
+    </view>  
+</view>  

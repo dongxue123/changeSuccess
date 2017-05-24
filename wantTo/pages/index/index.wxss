@@ -1,0 +1,16 @@
+
+.container image{
+  margin-left:0px;
+  margin-right:100rpx;
+  
+  width: 600rpx;
+  height:1000rpx;
+  display: block;
+}
+.swiper{
+  width:600rpx;
+  height:1000rpx;
+  margin: 0 auto;
+  margin-top:80rpx;
+  box-shadow:8rpx 8rpx 12rpx #666;
+}

@@ -1,0 +1,64 @@
+{
+  
+  "pages":[
+    "pages/index/index",
+    "pages/attention/attention",
+    "pages/designer/designer",
+    "pages/my/my",
+    "pages/whosay/whosay",
+     "pages/details/details",
+    "pages/buy/buy",
+    "pages/buy_total/buy_total",
+    "pages/woman/woman",
+    "pages/me/me",
+   
+    "pages/pay/pay",
+    "pages/list/list"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#000",
+     "navigationBarTitleText": "WANTO",
+    "navigationBarTextStyle":"#fff",
+    "enablePullDownRefresh":true
+  },
+    "tabBar": {
+    "color": "#7F8389", 
+    "selectedColor": "#d9a700", 
+    "borderStyle": "black", 
+    "backgroundColor":"#eee",
+    "list": [
+      {
+        "text": "专题", 
+        "pagePath":  "pages/index/index", 
+        "iconPath": "resources/1off.jpg", 
+        "selectedIconPath": "resources/1on.jpg"
+      }, 
+      {
+        "text": "设计师", 
+        "pagePath": "pages/designer/designer", 
+        "iconPath": "resources/2off.jpg", 
+        "selectedIconPath": "resources/2on.jpg"
+      }, 
+      {
+        "text": "他说", 
+        "pagePath":"pages/whosay/whosay", 
+        "iconPath": "resources/3off.jpg", 
+        "selectedIconPath": "resources/3on.jpg"
+      }, 
+      {
+        "text": "逛", 
+        "pagePath": "pages/buy/buy", 
+        "iconPath": "resources/4off.jpg", 
+        "selectedIconPath": "resources/4on.jpg"
+      },
+       {
+        "text": "我的", 
+        "pagePath": "pages/my/my", 
+        "iconPath": "resources/5off.jpg", 
+        "selectedIconPath": "resources/5on.jpg"
+      }
+    ], 
+    "backgroundColor": "#F7F7FA"
+  }
+}

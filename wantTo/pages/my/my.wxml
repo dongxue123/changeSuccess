@@ -1,0 +1,61 @@
+<!--index.wxml-->
+<view class="container">
+ 
+  <view class="banner">
+      <text>在这里找到属于你的不一样</text>
+        <span bindtap="me">登录/注册</span>
+
+  </view>
+
+
+  <view class="options">
+    <view class=" list">
+  <view class="dl">
+  <image src="http://tool.58pic.com/tubiaobao//Public/app/00/00/00/552cc151f216d_32.png"></image>
+  <text>我的订单</text>
+  </view>
+   <view class="dl" bindtap="shop">
+  <image src="http://tool.58pic.com/tubiaobao//Public/app/00/00/00/552cc14c6dce0_32.png"></image>
+  <text>购物车</text>
+  </view>
+   <view class="dl">
+  <image src="http://tool.58pic.com/tubiaobao//Public/app/00/00/00/552cc40952152_32.png"></image>
+  <text>我的优惠券</text>
+  </view>
+</view>
+  
+
+
+    <view class=" list">
+  <view class="dl">
+  <image src="http://tool.58pic.com/tubiaobao//Public/app/00/00/00/552cc3cb400e9_32.png"></image>
+  <text>喜欢的好物</text>
+  </view>
+   <view class="dl" >
+  <image src="http://tool.58pic.com/tubiaobao//Public/app/00/00/00/552cc4077f2ed_32.png"></image>
+  <text>设计师入住</text>
+  </view>
+   <view class="dl">
+  <image src=""></image>
+  <text></text>
+  </view>
+</view>
+   
+  </view>
+  <view class="h"> <text>他说</text></view>
+  <view class="menu">
+  
+  <view class="opt" >
+   <image src="http://tool.58pic.com/tubiaobao//Public/app/00/00/00/552cc3eaed3e7_32.png"></image>
+  <text>0一喜欢</text>
+  </view>
+   <view class="opt">
+   <image src="http://tool.58pic.com/tubiaobao//Public/app/00/00/00/552cc17f5bb87_32.png"></image>
+  <text bindtap="calling">意见反馈</text>
+  </view>
+   <view class="opt">
+   <image src="http://tool.58pic.com/tubiaobao//Public/app/00/00/00/552cc44b14700_32.png"></image>
+  <text>设置</text>
+  </view>
+  </view>
+</view>

@@ -1,0 +1,10 @@
+<!--index.wxml-->
+<view class="container">
+<swiper class=" swiper" indicator-dots="false"  interval="2000" duration="1000"> 
+    <block wx:for="{{movies}}" wx:for-index="index">    
+        <swiper-item>    
+          <image src="{{item.url}}" class="slide-image" mode="aspectFill"/>    
+        </swiper-item>    
+      </block>  
+</swiper>
+</view>

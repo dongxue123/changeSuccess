@@ -1,0 +1,86 @@
+/**index.wxss**/
+.container{
+     background:#eee;
+}
+.banner{
+    width:100%;
+    height:480rpx;
+    background: #333;
+}
+.banner text{
+    padding-top:100rpx;
+    font-size:32rpx;
+    color:#eee;
+    display:block;
+    text-align:center;
+}
+.banner span{
+    font-size:32rpx;
+    color:#eee;
+    border:2rpx solid #eee;
+    display:block;
+    width:200rpx;
+    margin :0 auto;
+     margin-top:60rpx;
+     text-align:center;
+     padding:10rpx 0px;
+}
+.options{
+    width:100%;
+    margin-top:20rpx;
+    margin-bottom:20rpx;
+    background:#fff;
+}
+.list{
+    display:flex;
+    width:100%;
+    border-bottom:2rpx solid #ccc;
+}
+.dl{
+    flex:1;
+     justify-content:space-around;
+    align-items:center;
+    margin:20rpx 0px;
+    text-align:center;
+}
+.dl image{
+     width:40rpx;
+    height:40rpx;
+    display:block;
+    margin:0 auto;
+}
+.dl text{
+    text-align:center;
+     font-size:24rpx;
+}
+.menu{
+    width:100%;
+   
+}
+.h text{
+    display:block;
+    font-size:28rpx;
+    margin-bottom:20rpx;
+    margin-left:20rpx;
+
+}
+.opt{
+    width:100%;
+    height:90rpx;
+    line-height:90rpx;
+    padding-left:20rpx;
+    border-bottom:2rpx solid #ccc;
+     background:#fff;
+}
+.opt:nth-child(1){
+    margin-bottom:20rpx;
+}
+.opt image{
+    width:40rpx;
+    height:40rpx;
+}
+.opt text{
+    margin-left:20rpx;
+    font-size:24rpx;
+
+}

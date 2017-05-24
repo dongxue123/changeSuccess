@@ -1,0 +1,74 @@
+<!--index.wxml-->
+<view class="container">
+<view class=" list">
+  <view class="dl" bindtap="woman">
+  <image src="http://tool.58pic.com/tubiaobao//Public/ds/00/00/02/552cd19924fee_32.png"></image>
+  <text>女人</text>
+  </view>
+   <view class="dl">
+  <image src="http://tool.58pic.com/tubiaobao//Public/app/00/00/01/552cc6f29e295_32.png"></image>
+  <text>男人</text>
+  </view>
+   <view class="dl">
+  <image src="http://tool.58pic.com/tubiaobao//Public/ds/00/00/02/552cd170eecad_32.png"></image>
+  <text>饰品</text>
+  </view>
+   <view class="dl">
+  <image src="http://tool.58pic.com/tubiaobao//Public/ds/00/00/02/552cd19518939_32.png"></image>
+  <text>箱包</text>
+  </view>
+</view>
+<view class=" list">
+  <view class="dl">
+  <image src="http://tool.58pic.com/tubiaobao//Public/app/00/00/01/552cc541abaae_32.png"></image>
+  <text>配件</text>
+  </view>
+   <view class="dl">
+  <image src="http://tool.58pic.com/tubiaobao//Public/ds/00/00/02/552cd1b1af80b_32.png"></image>
+  <text>家具</text>
+  </view>
+   <view class="dl">
+  <image src="http://tool.58pic.com/tubiaobao//Public/ds/00/00/02/552cd18752fcb_32.png"></image>
+  <text>美食</text>
+  </view>
+   <view class="dl">
+  <image src="http://tool.58pic.com/tubiaobao//Public/app/00/00/01/552cc56bd07a1_32.png"></image>
+  <text>礼物</text>
+  </view>
+</view>
+<view class="box">
+   <view class="box1">
+     <text>降温了你的衣服够厚吗？</text>
+     <text>保暖大作战</text>
+     <span bindtap="toast">查看全部</span>
+     </view>
+</view>
+<view class="pro">
+<view class="proList" bindtap="statego" id="http://xqproduct.xiangqu.com/FuVUHpLRgyyNg1qmckseSSfJ4JH0?imageView2/2/w/236/q/90/format/jpg/800x800/">
+  <image src="http://xqproduct.xiangqu.com/FuVUHpLRgyyNg1qmckseSSfJ4JH0?imageView2/2/w/236/q/90/format/jpg/800x800/"></image>
+  <text>毛呢大衣最新款</text>
+  </view>
+<view class="proList" bindtap="statego" id="http://xqproduct.xiangqu.com/FnleofjiSteUW4_wXCRrlV7T-2uO?imageView2/2/w/236/q/90/format/jpg/750x751/">
+  <image src="http://xqproduct.xiangqu.com/FnleofjiSteUW4_wXCRrlV7T-2uO?imageView2/2/w/236/q/90/format/jpg/750x751/"></image>
+  <text>韩版修身淑女大衣</text>
+  </view>
+  <view class="proList" bindtap="statego" id="http://xqproduct.xiangqu.com/FuA3kekKKDsrnLa6-T2ca4rIVmqz?imageView2/2/w/214/q/90/format/jpg/750x750/">
+  <image src="http://xqproduct.xiangqu.com/FuA3kekKKDsrnLa6-T2ca4rIVmqz?imageView2/2/w/214/q/90/format/jpg/750x750/"></image>
+  <text>毛呢大衣最新款</text>
+  </view>
+</view>
+<view class="pro">
+<view class="proList" bindtap="statego" id="http://xqproduct.xiangqu.com/Fjpl4T-qHxCD6da5d_lp_2xz7DKR?imageView2/2/w/236/q/90/format/jpg/750x750/">
+  <image src="http://xqproduct.xiangqu.com/Fjpl4T-qHxCD6da5d_lp_2xz7DKR?imageView2/2/w/236/q/90/format/jpg/750x750/"></image>
+  <text>毛呢大衣最新款</text>
+  </view>
+<view class="proList" bindtap="statego" id="http://xqproduct.xiangqu.com/Fhf-TGnIRMf4KMlU0DBoTaTxot1p?imageView2/2/w/236/q/90/format/jpg/800x800/">
+  <image src="http://xqproduct.xiangqu.com/Fhf-TGnIRMf4KMlU0DBoTaTxot1p?imageView2/2/w/236/q/90/format/jpg/800x800/"></image>
+  <text>韩版修身淑女大衣</text>
+  </view>
+  <view class="proList" bindtap="statego" id="http://xqproduct.xiangqu.com/FqJdr5dGy8QJCZFmIFBA7sBdqq5f?imageView2/2/w/164/q/90/format/jpg/800x800/">
+  <image src="http://xqproduct.xiangqu.com/FqJdr5dGy8QJCZFmIFBA7sBdqq5f?imageView2/2/w/164/q/90/format/jpg/800x800/"></image>
+  <text>毛呢大衣最新款</text>
+  </view>
+</view>
+</view>

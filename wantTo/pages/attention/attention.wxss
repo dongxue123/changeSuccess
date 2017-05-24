@@ -1,0 +1,46 @@
+/**index.wxss**/
+.container{
+    width:100%;
+    height:100%;
+}
+.designer{
+    width:100%;
+    height:180rpx;
+    border-bottom:2rpx solid #ccc;
+    display:flex;
+
+}
+.designer image{
+   width:120rpx;
+   height:120rpx; 
+   display:block;
+   border-radius: 100%;
+   border:2rpx solid #eee;
+   
+   margin-top:30rpx;
+   margin-left:20rpx;
+}
+.T{
+    flex:3;
+    margin-top:30rpx;
+    height:120rpx;
+    line-height:40rpx;
+    margin-left:30rpx;
+
+}
+.T text{
+    display:block;
+    font-size:24rpx;
+    color:#878787;
+}
+.T text:nth-child(1){
+    font-weight:bold;
+     font-size:28rpx;
+     color:#333;
+}
+.designer span{
+    font-size:28rpx;
+    margin-top:40rpx;
+    margin-right:20rpx;
+}
+

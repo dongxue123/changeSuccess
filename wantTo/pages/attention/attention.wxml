@@ -1,0 +1,67 @@
+<!--index.wxml-->
+<view class="container">
+<view class="designer">
+<image src="http://img-shop.kkkd.com/FqpOgT1C8s7ardyL3A46igHoSbG5"></image>
+<view class="T">
+   <text>邱培杰</text>
+<text>品牌创始人</text>
+<text>简约</text>
+</view>
+<span>77 作品</span>
+</view>
+  
+  <view class="designer">
+<image src="http://img-shop.kkkd.com/FniyUtFIdC30lnxm28WBH5Kfkyup"></image>
+<view class="T">
+   <text>邱培杰</text>
+<text>品牌创始人</text>
+<text>简约</text>
+</view>
+<span>77 作品</span>
+</view>
+<view class="designer">
+<image src="http://img-shop.kkkd.com/FoSMeS-ZmmdIGa1B2FAxC07_g6po"></image>
+<view class="T">
+   <text>邱培杰</text>
+<text>品牌创始人</text>
+<text>简约</text>
+</view>
+<span>77 作品</span>
+</view>
+<view class="designer">
+<image src="http://img-prod.kkkd.com/FjNiG9SbSeQbO0wOrcxqEuefQmRZ"></image>
+<view class="T">
+   <text>邱培杰</text>
+<text>品牌创始人</text>
+<text>简约</text>
+</view>
+<span>77 作品</span>
+</view>
+<view class="designer">
+<image src="http://img-prod.kkkd.com/FqY-Zcz7Wgh7HsXm4AY0BcoyClqS"></image>
+<view class="T">
+   <text>邱培杰</text>
+<text>品牌创始人</text>
+<text>简约</text>
+</view>
+<span>77 作品</span>
+</view>
+<view class="designer">
+<image src="http://img-shop.kkkd.com/FhqhsQqXK8lDQ5au4fDKOxdTy6jS?imageView2/2/w/120/q/90/format/jpg"></image>
+<view class="T">
+   <text>邱培杰</text>
+<text>品牌创始人</text>
+<text>简约</text>
+</view>
+<span>77 作品</span>
+</view>
+<view class="designer">
+<image src="http://img-shop.kkkd.com/Fhp2z_FuqyYLAJ-PvYHSHsWNEdoQ?imageView2/2/w/120/q/90/format/jpg"></image>
+<view class="T">
+   <text>邱培杰</text>
+<text>品牌创始人</text>
+<text>简约</text>
+</view>
+<span>77 作品</span>
+</view>
+</view>

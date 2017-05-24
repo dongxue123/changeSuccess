@@ -1,0 +1,19 @@
+.pro{
+    width:100%;
+    display:flex;
+    margin: 0 20rpx;
+}
+.proList{
+   flex:1;
+   margin-top:40rpx;
+}
+.proList image{
+   width:340rpx;
+   height:340rpx;
+   display:block;
+}
+.proList text{
+    width:200rpx;
+    text-align:center;
+    font-size:28rpx;
+}

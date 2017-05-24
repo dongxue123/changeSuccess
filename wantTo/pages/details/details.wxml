@@ -1,0 +1,19 @@
+<!--index.wxml-->
+<view class="container">
+<view class="tit">
+<image src="http://xquser.xiangqu.com/FvuWGwBWSREdKWHlD03hGhtklTZc?imageView2/2/w/140/q/90/format/jpg/960x960/"></image>
+<span>品牌支持人</span>
+<b bindTap="click">关注+</b>
+</view>
+ <view class="content">
+  <text class="h">冬季这双鞋你值得拥有……</text>   
+ <image src="{{title}}"></image>
+ <view class="tit1">
+<image src="http://xquser.xiangqu.com/FvuWGwBWSREdKWHlD03hGhtklTZc?imageView2/2/w/140/q/90/format/jpg/960x960/"></image>
+<span>HZ:</span>
+<text class="href">连接:http://www.xiangqu.m/product/detail/247…
+</text>
+</view>
+ </view>
+ 
+</view>

@@ -1,0 +1,51 @@
+<!--index.wxml-->
+<view class="container">
+<view class="header">
+    <!--<image src="../../resources/dheader.jpg"></image>-->
+    <image src="http://xqproduct.xiangqu.com/FrAVTZZLWhdY286FSgDT-lLyuhey?imageView2/2/w/770/q/90/format/jpg/770x360/"></image>
+</view>
+<view class="swiper-tab">  
+    <view class="swiper-tab-list {{currentTab==0 ? 'on' : ''}}" data-current="0" bindtap="swichNav">分类</view>  
+    <view class="swiper-tab-list {{currentTab==1 ? 'on' : ''}}" data-current="1" bindtap="swichNav">行业</view>  
+   
+</view>   
+<swiper current="{{currentTab}}" class="swiper-box" duration="300" style="height:{{winHeight - 31}}px" bindchange="bindChange">  
+    <swiper-item>  
+      <view class="list" bindtap="list">
+    <image src="http://xqproduct.xiangqu.com/Fm5WplEV6dCzCYpjo5yxP4nUMIJU?imageView2/2/w/236/q/90/format/jpg/800x800/"></image>
+    <image src="http://xqproduct.xiangqu.com/FmuyBwxv7ihR8KCiZYsxopBjfzQz?imageView2/2/w/236/q/90/format/jpg/800x800/"></image>
+  
+  </view>
+  <view class="list" bindtap="toast">
+    <image src="http://xqproduct.xiangqu.com/FkI2thXTMIgsGNLsHMc-xaol8SKf?imageView2/2/w/236/q/90/format/jpg/800x800/"></image>
+    <image src="http://xqproduct.xiangqu.com/FgPqYABtx7BSwjCW3jFuZWpX1Jdd?imageView2/2/w/236/q/90/format/jpg/800x800/"></image>
+  
+  </view>
+   <view class="list" bindtap="toast">
+    <image src="http://xqproduct.xiangqu.com/FvTG7frY2gEc9mAfJXpajWdzx1DN?imageView2/2/w/240/q/90/format/jpg/800x800/"></image>
+    <image src="http://xqproduct.xiangqu.com/Fs0l1ZS7a6TZ6iL53YmWlvIyNNPo?imageView2/2/w/240/q/90/format/jpg/950x950/"></image>
+  
+  </view>
+    </swiper-item>  
+  
+    <swiper-item>  
+        <view class="list" bindtap="toast">
+    <image src="http://xqproduct.xiangqu.com/Ftjk1I_rZ_BVIBYeSbReynG6sl-w?imageView2/2/w/236/q/90/format/jpg/1200x1200/"></image>
+    <image src="http://xqproduct.xiangqu.com/Fma_JJLhAR_rRRxedKY3ubVsZXbu?imageView2/2/w/236/q/90/format/jpg/750x750/"></image>
+  
+  </view>
+  <view class="list" bindtap="toast">
+    <image src="http://xqproduct.xiangqu.com/FkcqQMxUEq3Zd99bCN0_-FlNfjbJ?imageView2/2/w/240/q/90/format/jpg/1525x1524/"></image>
+    <image src="http://xqproduct.xiangqu.com/Fn7Rn1z9Z4Xc-liXWcIpOFMWsCgc?imageView2/2/w/240/q/90/format/jpg/3648x3648/"></image>
+  </view> 
+     <view class="list" bindtap="toast">
+    <image src="http://xqproduct.xiangqu.com/FoZYA-sspe2eekKaMuFrJfyJx8-L?imageView2/2/w/240/q/90/format/jpg/597x600/"></image>
+    <image src="http://xqproduct.xiangqu.com/FnqXS1L2Z0lCT6cELZJ_bbHOgPgb?imageView2/2/w/240/q/90/format/jpg/800x800/"></image>
+  
+  </view>
+    </swiper-item>  
+  
+    
+</swiper>  
+  
+</view>
